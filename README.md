@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Test react-player library
+
+<img width="897" alt="image" src="https://github.com/MiguelGDD/random-hero/assets/65102622/88b252f4-40c8-40b8-88cd-cafcc54c3fc6">
+
 
 First, run the development server:
 
